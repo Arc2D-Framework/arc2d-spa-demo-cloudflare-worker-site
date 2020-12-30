@@ -1,7 +1,7 @@
 ## Arc2D SPA Demo Deployed with Cloudflare Workers Sites 🚀
 🔗 https://spa-demo.arc2d.workers.dev/
 
-Here is a Simple Single Page Application made with the Arc2D Framework and deployed with Cloudflare Workers Sites
+Here is a Simple Single Page Application made with the **[Arc2D Framework](https://github.com/Arc2D-Framework/arc2d)** and deployed with **Cloudflare Workers** Sites
 
 ## What is Cloudflare Workers Sites?
 🔗 https://workers.cloudflare.com/sites
@@ -11,7 +11,9 @@ Here is a Simple Single Page Application made with the Arc2D Framework and deplo
 ## Cloudflare Worker API Examples
 🔗 https://developers.cloudflare.com/workers/examples
 
-"Cloudflare Workers provides a serverless execution environment that allows you to create entirely new applications or augment existing ones without configuring or maintaining infrastructure."
+"Cloudflare Workers provides a **serverless execution environment** that allows you to create entirely **new applications** or **augment** existing ones without configuring or maintaining infrastructure."
 
 ## Cloudflare Workers Sites - Built With
 🔗 https://workers.cloudflare.com/built-with
+
+"Projects across the web utilizing Cloudflare Workers."
